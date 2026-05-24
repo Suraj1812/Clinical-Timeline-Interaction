@@ -1,0 +1,5 @@
+.venv
+backend/data
+screenshots
+*.pyc
+__pycache__

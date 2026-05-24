@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 220" role="img" aria-labelledby="title desc">
+  <title id="title">BC2RI logo</title>
+  <desc id="desc">BC2RI wordmark with integral and infinity symbols.</desc>
+  <rect width="640" height="220" fill="#ffffff"/>
+  <g fill="#07167f">
+    <text x="15" y="171" font-family="Georgia, 'Times New Roman', serif" font-size="26">-∞</text>
+    <text x="97" y="43" font-family="Georgia, 'Times New Roman', serif" font-size="26">+∞</text>
+    <text x="37" y="166" font-family="Georgia, 'Times New Roman', serif" font-size="178" font-style="italic">∫</text>
+    <text x="150" y="143" font-family="Georgia, 'Times New Roman', serif" font-size="88">βC2Rí</text>
+  </g>
+</svg>

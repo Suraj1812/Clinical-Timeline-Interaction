@@ -1,0 +1,17 @@
+{
+  "name": "BC2RI Clinical Timeline",
+  "short_name": "BC2RI Timeline",
+  "description": "Timeline-first clinical task and alert prototype.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7f8",
+  "theme_color": "#07167f",
+  "icons": [
+    {
+      "src": "/bc2ri-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

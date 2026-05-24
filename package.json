@@ -1,0 +1,27 @@
+{
+  "name": "clinical-timeline-prototype",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently \"npm run dev:api\" \"npm run dev:web\"",
+    "dev:api": "uvicorn backend.app.main:app --reload --port 8000",
+    "dev:web": "vite --host 0.0.0.0 --port 5173",
+    "build": "tsc --noEmit && vite build",
+    "check": "npm run build && python3 -m pytest backend/tests",
+    "preview": "vite preview --host 0.0.0.0 --port 4173"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.1.1",
+    "concurrently": "^9.2.1",
+    "lucide-react": "^0.556.0",
+    "typescript": "^5.9.3",
+    "vite": "^7.2.4",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.6",
+    "@types/react-dom": "^19.2.3"
+  }
+}

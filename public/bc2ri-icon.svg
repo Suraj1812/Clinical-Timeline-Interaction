@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">BC2RI icon</title>
+  <desc id="desc">BC2RI logo mark.</desc>
+  <rect width="512" height="512" rx="92" fill="#ffffff"/>
+  <g fill="#07167f">
+    <text x="52" y="414" font-family="Georgia, 'Times New Roman', serif" font-size="44">-∞</text>
+    <text x="196" y="94" font-family="Georgia, 'Times New Roman', serif" font-size="44">+∞</text>
+    <text x="100" y="400" font-family="Georgia, 'Times New Roman', serif" font-size="340" font-style="italic">∫</text>
+    <text x="248" y="315" font-family="Georgia, 'Times New Roman', serif" font-size="86">β</text>
+  </g>
+</svg>

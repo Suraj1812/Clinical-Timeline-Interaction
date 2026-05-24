@@ -1,0 +1,15 @@
+node_modules/
+dist/
+__pycache__/
+.pytest_cache/
+.venv/
+.env
+.env.local
+backend/data/store.json
+backend/data/*.tmp
+*.tsbuildinfo
+vite.config.d.ts
+vite.config.js
+*.pyc
+.DS_Store
+.vercel
